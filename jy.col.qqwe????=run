@@ -1,0 +1,65 @@
+$ git clone https://github.com/titaniumnetwork-dev/Ultraviolet-Node --recursive
+$ cd Ultraviolet-Node
+$ npm install
+$ npm start
+
+This website has been blocked by your administrator.
+</div>
+    <div id="logindiv" class = "popspace" style="display: none;">
+        <div class="form" id="login" style="background-color: #DBDBDB;">
+            <div style="padding: 10px;">
+                <h3 class="pophead">Enter Password</h3>
+                <p class ="pophead2 passapp">All Attempts are Logged.</p>
+            </div>
+            <input type="password" id="password" placeholder="Password"/> <br/><br/>
+            <button class="btn btn-default btn-xs but submitAll">Bypass</button>
+        </div>
+    </div>
+
+    <div id="unblockdiv" class = "popspace" style="top:178px; display: none;">
+        <div class="form" style="background-color: #DBDBDB;">
+            <div style="padding: 10px;">
+                <h3 class="pophead unblocktitle">Why?</h3>
+                <p class="pophead2 unblockapp">Limit to 300 characters.</p>
+            </div>
+            <textarea type="text" id="unblockreq" placeholder="Explain"></textarea>
+            <button class="btn btn-default btn-xs but submitcont" style="margin-left: 100px; margin-top: 20px;">Submit</button>
+        </div>
+    </div>
+</div>
+</div>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+int{display:table-cell!important}}@media print{.hidden
+-print,tr.hidden-print,th.hidden-print,td.hidden-print{display:none!important}}
+@media (prefers-color-scheme: dark) {
+  html {
+    --md-background-color: rgb(32, 33, 36);  /* --google-grey-900 */
+    --md-loading-message-color: #9AA0A6;  /* --google-grey-refresh-500 */
+    /* --cr-separator-line */
+    --md-toolbar-border: 1px solid rgba(255, 255, 255, .1);
+    --md-toolbar-color: rgba(255, 255, 255, .04);
+  }
+}
+npm i bootstrap@5.2.0-beta1
+// Functions first
+@import "../node_modules/bootstrap/scss/functions";
+
+// Variable overrides second
+$primary: #900;
+$enable-shadows: true;
+$prefix: "mo-";
+
+ package is looking for funding
+  run `npm fund` for details
+
+found 3 vulnerabilities (2 moderate, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+[             .....] \ prepare:Ultraviolet-Node-2: sill install printInsta
+Submodule 'static' (https://github.com/titaniumnetwork-dev/ultraviolet-site.git) registered for path 'static'
+Cloning into '/home/runner/Ultraviolet-Node-2/static'...
+Submodule path 'static': checked out 'f7c4f10705c228a79da350c3d311c4b1fb2f7c97'
